@@ -42,7 +42,20 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+   {
+		path: '/doan-so',
+		name: 'DoanSo',
+		icon: 'QuestionCircleOutlined',
+		component: './DoanSo',
+	},
 
+	// ✅ BÀI 2 — Study Tracker
+	{
+		path: '/study-tracker',
+		name: 'StudyTracker',
+		icon: 'ReadOutlined',
+		component: './StudyTracker',
+	},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
