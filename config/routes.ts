@@ -42,6 +42,18 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	  {
+    path: '/oan-tu-ti',
+    name: 'OanTuTi',
+    component: './OanTuTi',
+    icon: 'SmileOutlined',
+  },
+  {
+    path: '/question-bank',
+    name: 'QuestionBank',
+    component: './QuestionBank',
+    icon: 'BookOutlined',
+  },
 
 	// DANH MUC HE THONG
 	// {
