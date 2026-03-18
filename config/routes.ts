@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+    path: '/lich-hen',
+    name: 'LichHen',
+    component: './LichHen',
+    icon: 'CalendarOutlined',
+},
 
 	// DANH MUC HE THONG
 	// {
