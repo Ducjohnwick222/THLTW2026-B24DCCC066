@@ -42,7 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
-
+    {
+    path: '/quan-ly-van-bang',
+    name: 'QuanLyVanBang',
+    component: './QuanLyVanBang',
+    icon: 'BookOutlined',
+},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
