@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+  path: '/club-management',
+  name: 'ClubManagement',
+  icon: 'TeamOutlined',
+  component: './ClubManagement',
+   },
 
 	// DANH MUC HE THONG
 	// {
