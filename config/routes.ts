@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+    path: '/dulich',
+    name: 'Du Lịch',
+    component: './DuLich',
+    icon: 'CompassOutlined', // có thể thay icon khác tùy ý
+},
 
 	// DANH MUC HE THONG
 	// {
