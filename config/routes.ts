@@ -42,11 +42,18 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+        path: '/blog',
+        name: 'Blog',
+        component: './Blog',
+        icon: 'ReadOutlined',
+    },
 
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
-	// 	path: '/danh-muc',
+	// 	path: '/danh-muc',ưq
+
 	// 	icon: 'copy',
 	// 	routes: [
 	// 		{
