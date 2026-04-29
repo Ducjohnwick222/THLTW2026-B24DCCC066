@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	 {
+  path: '/the-duc-app',
+  name: 'TheDucApp',
+  icon: 'DashboardOutlined',
+  component: './TheDucApp',
+},
 
 	// DANH MUC HE THONG
 	// {
