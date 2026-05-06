@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+  path: '/kanban-task',
+  name: 'KanbanTask',
+  icon: 'AppstoreOutlined',
+  component: './KanbanTask',
+},
 
 	// DANH MUC HE THONG
 	// {
